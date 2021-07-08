@@ -1,0 +1,14 @@
+{
+  "name": "8f264c3b1ce87374",
+  "main": "8f264c3b1ce87374@277.js",
+  "version": "277.0.0",
+  "homepage": "https://observablehq.com/d/8f264c3b1ce87374",
+  "author": {
+    "name": "Jai Krishna",
+    "url": "https://observablehq.com/@textzip"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
